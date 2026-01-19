@@ -1,1 +1,1 @@
-
+Hi!  My name is Mark Ramos.  I teach in the CS Department at NYU Courant.  This course is about structuring and working with databases and creating back-end powered web applications.
